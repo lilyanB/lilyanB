@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi, I'm Lilyan 👋
+<a href="https://discord.gg/lilyanB">
+  <img align="left" alt="Lilyan's Discord" width="22px" src="https://github.com/lilyanB/lilyanB/image/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/lilyanB/">
+  <img align="left" alt="Lilyan's LinkedIN" width="22px" src="https://github.com/lilyanB/lilyanB/image/linkedin.svg" />
+</a>
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![](https://visitor-badge.glitch.me/badge?page_id=lilyanB)
 
 <!--
 **lilyanB/lilyanB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
