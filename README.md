@@ -1,9 +1,9 @@
 ### Hi, I'm Lilyan 👋
 <a href="https://discord.gg/lilyanB">
-  <img align="left" alt="Lilyan's Discord" width="22px" src="https://github.com/lilyanB/lilyanB/image/discord.svg" />
+  <img align="left" alt="Lilyan's Discord" width="22px" src="https://raw.githubusercontent.com/lilyanB/lilyanB/image/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lilyanB/">
-  <img align="left" alt="Lilyan's LinkedIN" width="22px" src="https://github.com/lilyanB/lilyanB/image/linkedin.svg" />
+  <img align="left" alt="Lilyan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/lilyanB/lilyanB/image/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lilyanB)
