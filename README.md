@@ -3,9 +3,11 @@
 		Hi, I'm Lilyan 👋
 	</h2>
 </div>
+<!--
 <a href="https://discord.gg/lilyanB">
   <img align="left" alt="Lilyan's Discord" width="22px" src="https://github.com/lilyanB/lilyanB/blob/main/image/discord.svg" />
 </a>
+-->
 <a href="https://www.linkedin.com/in/lilyanB/">
   <img align="left" alt="Lilyan's LinkedIN" width="22px" src="https://github.com/lilyanB/lilyanB/blob/main/image/linkedin.svg" />
 </a>
