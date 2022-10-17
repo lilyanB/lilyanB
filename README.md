@@ -28,9 +28,10 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lilyanB&show_icons=true&theme=gotham" alt="lilyanB" />
 
-
-
-
+<div>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=lilyanB&show_icons=true&theme=merko&count_private=true"  alt="lilyanB github stats"  />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyanB&theme=merko&layout=compact"  alt="lilyanB github top languages"  />
+</div>
 
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=lilyanB)
