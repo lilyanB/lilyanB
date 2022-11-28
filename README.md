@@ -18,7 +18,7 @@
 
 - Blockchain - Solidity, Cairo, Polygon, Rust
 - Web - React, Angular, Next.js,
-- Cloud - AWS, Vmware, Vercel, Docker
+- Cloud - AWS, Vmware, Hyper-V, Vercel, Docker
 - Languages - Typescript (and js), Python, mongoDB, axios, Kotlin, Redis
 - Outils -  Gitkraken/git, NodeJS
 
