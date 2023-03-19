@@ -16,7 +16,7 @@
 
 ### 🛠️ Hards Skills
 
-- Blockchain - Solidity, Cairo, Polygon, Rust
+- Blockchain - Solidity, Cairo, Polygon
 - Web - React, Angular, Next.js,
 - Cloud - AWS, Vmware, Hyper-V, Vercel, Docker
 - Languages - Typescript (and js), Python, mongoDB, axios, Kotlin, Redis
