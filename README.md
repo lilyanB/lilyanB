@@ -29,7 +29,7 @@
 ### 📈 my github stats
 <div>
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=lilyanB&show_icons=true&theme=merko&count_private=true"  alt="lilyanB github stats"  />
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyanB&theme=merko&layout=compact"  alt="lilyanB github top languages"  />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyanb&hide=python,javascript,Jupyter%20Notebook,CSS,shell,less,EJS,html,hcl,dockerfile&theme=merko&layout=compact&langs_count=5"  alt="lilyanB github top languages"  />
 </div>
 
 <!--
